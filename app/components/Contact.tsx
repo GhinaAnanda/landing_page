@@ -11,10 +11,10 @@ export default function Contact() {
           <div className="grid grid-cols-1 md:grid-cols-2">
             <div className="p-6 mr-2 bg-gray-100 dark:bg-gray-800 sm:rounded-lg">
               <h1 className="text-4xl sm:text-5xl text-gray-800 dark:text-white font-extrabold tracking-tight">
-                Get in touch
+                Kontak
               </h1>
               <p className="text-normal text-lg sm:text-2xl font-medium text-gray-600 dark:text-gray-400 mt-2">
-                Fill in the form to a conversation
+                Isi form pertanyaan
               </p>
 
               <div className="flex items-center mt-8 text-gray-600 dark:text-gray-400">
@@ -41,7 +41,7 @@ export default function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                  Acme Inc, Street, State, Postal Code
+                  Kp Cirumput 001/004 Kec. Cugenang, Kab. Cianjur, 43252
                 </div>
               </div>
 
@@ -63,7 +63,7 @@ export default function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                  +44 1234567890
+                  085721067232
                 </div>
               </div>
 
@@ -85,7 +85,7 @@ export default function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                  info@acme.org
+                  sdntalagadua16@gmail.com
                 </div>
               </div>
             </div>

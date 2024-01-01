@@ -42,105 +42,115 @@ export default function Gallery() {
           </div>
           <div className="lg:w-1/3 sm:w-1/2 p-4">
             <div className="flex relative">
-              <img
+              <Image
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/601x361"
+                src="/img/image1.jpeg"
+                width={600}
+                height={360}
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  SDN Negeri Talaga 2 Cianjur
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  The Catalyzer
+                  Suasana Pagi
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Para murid datang ke sekolah pada pagi hari, untuk siap
+                  memulai pembelajaran di sekolah dengan
                 </p>
               </div>
             </div>
           </div>
           <div className="lg:w-1/3 sm:w-1/2 p-4">
             <div className="flex relative">
-              <img
+              <Image
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/603x363"
+                src="/img/image2.jpeg"
+                width={600}
+                height={360}
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  SDN Negeri Talaga 2 Cianjur
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  The 400 Blows
+                  Suasana Pagi
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Para murid datang ke sekolah pada pagi hari, untuk siap
+                  memulai pembelajaran di sekolah dengan
                 </p>
               </div>
             </div>
           </div>
           <div className="lg:w-1/3 sm:w-1/2 p-4">
             <div className="flex relative">
-              <img
+              <Image
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/602x362"
+                src="/img/image3.jpeg"
+                width={600}
+                height={360}
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  SDN Negeri Talaga 2 Cianjur
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  Neptune
+                  Suasana Pagi
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Para murid datang ke sekolah pada pagi hari, untuk siap
+                  memulai pembelajaran di sekolah dengan
                 </p>
               </div>
             </div>
           </div>
           <div className="lg:w-1/3 sm:w-1/2 p-4">
             <div className="flex relative">
-              <img
+              <Image
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/605x365"
+                src="/img/image4.jpeg"
+                width={600}
+                height={360}
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  SDN Negeri Talaga 2 Cianjur
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  Holden Caulfield
+                  Suasana Pagi
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Para murid datang ke sekolah pada pagi hari, untuk siap
+                  memulai pembelajaran di sekolah dengan
                 </p>
               </div>
             </div>
           </div>
           <div className="lg:w-1/3 sm:w-1/2 p-4">
             <div className="flex relative">
-              <img
+              <Image
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/606x366"
+                src="/img/image5.jpeg"
+                width={600}
+                height={360}
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  SDN Negeri Talaga 2 Cianjur
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  Alper Kamu
+                  Suasana Pagi
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Para murid datang ke sekolah pada pagi hari, untuk siap
+                  memulai pembelajaran di sekolah dengan
                 </p>
               </div>
             </div>

@@ -38,7 +38,7 @@ const Navigation = () => {
           onClick={() => scrollToElement("home")}
           className="cursor-pointer"
         >
-          Homef
+          Home
         </NavbarLink>
         <NavbarLink
           onClick={() => scrollToElement("about")}
